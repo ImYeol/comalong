@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425734424335",
+    "project_id": "comalong-9e33e",
+    "storage_bucket": "comalong-9e33e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425734424335:android:6b4af7d656bae9219c207a",
+        "android_client_info": {
+          "package_name": "com.example.comalong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425734424335-mcg1f1k3upvvalg5b8aklphddotucgu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9c64ONk6-OIc_wnXly4vfg3IfxBEw5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425734424335-mcg1f1k3upvvalg5b8aklphddotucgu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
